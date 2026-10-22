@@ -121,7 +121,6 @@
   background: transparent;
   font-weight: 400;
   font-size: 22px;
-  text-align: center;
   text-transform: uppercase;
   color: #fff;
   padding: 12px 32px 11px 31px;
@@ -189,7 +188,6 @@
   text-decoration: underline;
   text-transform: uppercase;
   text-decoration: underline; /* отодвигает линию подчёркивания*/
-  text-underline-offset: 3.5px;
   text-decoration-thickness: 1px;
   margin-bottom: 1px;
 }
